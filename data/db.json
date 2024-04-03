@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "checked": false,
+      "item": "Parthiban"
+    },
+    {
+      "id": "2",
+      "checked": true,
+      "item": "Rahul"
+    },
+    {
+      "id": "3",
+      "checked": false,
+      "item": "Muthu"
+    },
+    {
+      "id": "31",
+      "checked": false,
+      "item": "git"
+    }
+  ]
+}
